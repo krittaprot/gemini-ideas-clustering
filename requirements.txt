@@ -1,0 +1,12 @@
+langchain-ollama
+langchain-google-genai
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+umap-learn
+hdbscan
+nbformat
+jupyter
+ipywidgets
